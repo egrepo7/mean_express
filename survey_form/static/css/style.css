@@ -1,0 +1,17 @@
+* {
+  background-color: black;
+  color: white;
+  font-size: 105%;
+  font-family: Verdana;
+}
+
+
+form {
+  width: 400px;
+  margin: 250px;
+  display: block;
+}
+
+input {
+  display:block;
+}
